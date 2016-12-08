@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OpenWeather</string>
+
+    <string name="no_weather_item"></string>
+    <string name="humidity">Humidity :</string>
+    <string name="wind">Wind :</string>
+    <string name="precipitation">Precipitation :</string>
+    <string name="add_city_title">Search a city</string>
+    <string name="city">City</string>
+    <string name="add">Search</string>
+    <string name="cancel">Cancel</string>
+    <string name="error_msg_internet">No Intenet!</string>
+    <string name="again">again</string>
+    <string name="country_not_found">not found</string>
+</resources>

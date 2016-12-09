@@ -37,7 +37,7 @@ public class ExampleInstrumentedTest {
             new ActivityTestRule<>(WeatherActivity.class);
 
     @Test
-    public void clickAddNoteButton_opensAddNoteUi() throws Exception {
+    public void clickSearch_opensSearchUi() throws Exception {
 
         onView(withId(R.id.edittext)).perform(click());
 

@@ -55,9 +55,6 @@ public class ExampleInstrumentedTest {
         onView(withId(R.id.et_city)).check(matches(isDisplayed())).perform(typeText("Kochi"), closeSoftKeyboard());
 
 
-
-
-
     }
 
 }
